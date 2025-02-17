@@ -18,5 +18,5 @@ ________________________________________________________________________________
 
 # Dataset
 Data is sourced from Kaggle .
-- Dataset link : ![Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- Dataset link : [Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
