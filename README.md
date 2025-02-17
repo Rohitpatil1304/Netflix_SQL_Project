@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%209.png)
 
-### Q10 
+### Q10 Find each year and the average numbers of content release in India on netflix. Return top 5 year with highest average content release!
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2010.png)
 
