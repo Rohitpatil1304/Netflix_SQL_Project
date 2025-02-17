@@ -23,5 +23,5 @@ Data is sourced from Kaggle .
 ______________________________________________________________________________________________________________________________________________________________________
 
 # Schema 
-![schema]()
+![schema](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/Screenshot%202025-02-17%20103645.png)
 
