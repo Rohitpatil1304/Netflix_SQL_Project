@@ -87,6 +87,19 @@ ________________________________________________________________________________
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2015.png)
 
+___________________________________________________________________________________________________________________________________________________________________
+# Findings : 
+ - Movies dominate Netflix's content library, significantly outnumbering TV shows.
+ - Netflix's content production is concentrated in specific countries, with detailed tracking showing clear market leaders.
+ - The platform has substantial regional presence, particularly in India where detailed actor and content tracking is maintained.
+ - There's significant variation in content types, with specific tracking of genres like documentaries and content characteristics.
 
+# Conclusion : 
+ - Netflix prioritizes movie content over TV series in their overall strategy.
+ - The company has a strong geographic focus in its content production, likely aligned with key market priorities.
+ - Investment in regional content, particularly in markets like India, appears to be a deliberate strategy for market growth.
+ - Content categorization and diverse rating systems suggest a sophisticated approach to audience targeting and content management.
+
+____________________________________________________________________________________________________________________________________________________________________
 
 
