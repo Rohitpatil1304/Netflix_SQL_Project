@@ -27,7 +27,12 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 # Business Problem and Solution
 
-Q1 Count the Number of TV Shows and Movies 
+## Q1 Count the Number of TV Shows and Movies 
+
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%201.png)
+
+## Q2 
+
+![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%202%20.png)
 
 
