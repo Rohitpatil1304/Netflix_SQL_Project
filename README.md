@@ -101,5 +101,6 @@ ________________________________________________________________________________
  - Content categorization and diverse rating systems suggest a sophisticated approach to audience targeting and content management.
 
 ____________________________________________________________________________________________________________________________________________________________________
-
+# Author - Rohit Patil
+This project is showcasing the SQL skills essential for data analyst roles. You can get connect to me for feedback and questions you have.
 
