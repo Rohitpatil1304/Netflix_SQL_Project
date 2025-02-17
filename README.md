@@ -27,39 +27,39 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 # Business Problem and Solution
 
-### Q1 Count the Number of TV Shows and Movies 
+### Q1 Count the Number of TV Shows and Movies.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%201.png)
 
-### Q2 
+### Q2 Find the most common rating for Movies and TV Shows.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%202%20.png)
 
-### Q3
+### Q3 List all Movies released in a specific year (e.g 2020).
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%203.png)
 
-### Q4 
+### Q4 Find the Top 5 countries with the most content on Netflix.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%204.png)
 
-### Q5
+### Q5 Indentify the Longest Movie.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%205.png)
 
-### Q6
+### Q6 Find content added in the last 5 years.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%206.png)
 
-### Q7 
+### Q7 Find all the Movies/TV Shows by direction 'Rajiv Chilaka' !
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%207.png)
 
-### Q8 
+### Q8 List all TV Shows with more than 5 Seasons.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%208.png)
 
-### Q9
+### Q9 Count the number of content items in each genre.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%209.png)
 
@@ -67,19 +67,19 @@ ________________________________________________________________________________
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2010.png)
 
-### Q11
+### Q11 List all Movies that are Documentaries.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2011.png)
 
-### Q12 
+### Q12 Find all content without a Director.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2012.png)
 
-### Q13 
+### Q13 Find how many movies actor 'Salman Khan' appeared in last 10 years.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2013.png)
 
-### Q14 
+### Q14 Find the Top 10 actors who have appeared in the highest number of movies produced in India.
 
 ![](https://github.com/Rohitpatil1304/Netflix_SQL_Project/blob/main/images/Question%2014.png)
 
